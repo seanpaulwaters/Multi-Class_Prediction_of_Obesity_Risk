@@ -29,14 +29,6 @@ Citation:
   - Public Score: 0.90281
   - Private Score: 0.90823
 
-## Installation
-Instructions on how to set up the project environment:
-
-```bash
-git clone https://github.com/your-github-username/obesity-risk-prediction-kaggle.git
-cd obesity-risk-prediction-kaggle
-pip install -r requirements.txt
-
 ## Usage
 
 jupyter notebook obesity_prediction.ipynb
@@ -45,3 +37,12 @@ jupyter notebook obesity_prediction.ipynb
 ## License
 
 MIT License
+
+## Installation
+Instructions on how to set up the project environment:
+
+```bash
+git clone https://github.com/your-github-username/obesity-risk-prediction-kaggle.git
+cd obesity-risk-prediction-kaggle
+pip install -r requirements.txt
+
